@@ -12,6 +12,28 @@ Fast ASGI web framework for Python
 x install BlackSheep
 ```
 
+## 代码洞察
+
+合计: **49,387** 行代码（覆盖前 5 种语言、共 **214** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 46,597 | 1,485 | 11,605 | 188 |
+| Cython | 2,327 | 120 | 624 | 16 |
+| Html | 133 | 0 | 2 | 7 |
+| Css | 87 | 0 | 14 | 2 |
+| Makefile | 73 | 0 | 39 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **3.8 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/Neoteroi/BlackSheep>
@@ -35,31 +57,12 @@ x install BlackSheep
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 5 | 0 | 2 | 0 |
-| 360d | 2025-09-15 | 12 | 53 | 7 | 27 | 2 | 61 |
-
-## 代码规模
-
-合计: **49,387** 行代码（覆盖前 5 种语言、共 **214** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 46,597 | 1,485 | 11,605 | 188 |
-| Cython | 2,327 | 120 | 624 | 16 |
-| Html | 133 | 0 | 2 | 7 |
-| Css | 87 | 0 | 14 | 2 |
-| Makefile | 73 | 0 | 39 | 1 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **3.8 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 4 | 0 | 1 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 5 | 0 | 2 | 0 |
+| last180d | 2026-03-15 | 1 | 6 | 7 | 4 | 2 | 6 |
+| 360d | 2025-09-16 | 12 | 53 | 7 | 27 | 2 | 61 |
+| last720d | 2024-09-21 | 20 | 82 | 8 | 67 | 3 | 101 |
 
 ## 改进这些数据
 
@@ -70,4 +73,4 @@ BlackSheep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:31:13Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:08:16Z._
