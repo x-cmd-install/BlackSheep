@@ -26,13 +26,13 @@ x install BlackSheep
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.8 / 10**
+总评分: **4.8 / 10**
 
 评分最低的几项:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Code-Review** (2/10) — Found 7/26 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install BlackSheep
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 3 | 1 | 0 | 1 | 8 |
-| last60d | 2026-07-30 | 0 | 6 | 1 | 0 | 1 | 8 |
-| 90d | 2026-06-30 | 0 | 7 | 1 | 0 | 1 | 8 |
-| last180d | 2026-04-01 | 1 | 14 | 2 | 4 | 1 | 14 |
-| 360d | 2025-10-03 | 11 | 55 | 3 | 25 | 1 | 62 |
-| last720d | 2024-10-08 | 20 | 90 | 4 | 68 | 2 | 109 |
+| 30d | 2026-08-30 | 0 | 3 | 1 | 0 | 1 | 8 |
+| last60d | 2026-07-31 | 0 | 6 | 1 | 0 | 1 | 8 |
+| 90d | 2026-07-01 | 0 | 7 | 1 | 0 | 1 | 8 |
+| last180d | 2026-04-02 | 1 | 14 | 2 | 4 | 1 | 14 |
+| 360d | 2025-10-04 | 11 | 54 | 3 | 25 | 1 | 62 |
+| last720d | 2024-10-09 | 20 | 90 | 4 | 68 | 2 | 109 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ BlackSheep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:25:59Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T05:45:17Z._
