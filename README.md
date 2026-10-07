@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 3 | 2 | 0 | 1 | 8 |
-| last60d | 2026-08-07 | 0 | 3 | 2 | 0 | 1 | 8 |
-| 90d | 2026-07-08 | 0 | 7 | 2 | 0 | 1 | 8 |
-| last180d | 2026-04-09 | 1 | 14 | 3 | 2 | 1 | 14 |
-| 360d | 2025-10-11 | 10 | 54 | 4 | 23 | 1 | 62 |
-| last720d | 2024-10-16 | 20 | 90 | 5 | 67 | 2 | 109 |
+| 30d | 2026-09-07 | 0 | 3 | 2 | 0 | 1 | 8 |
+| last60d | 2026-08-08 | 0 | 3 | 2 | 0 | 1 | 8 |
+| 90d | 2026-07-09 | 0 | 7 | 2 | 0 | 1 | 8 |
+| last180d | 2026-04-10 | 1 | 14 | 3 | 2 | 1 | 14 |
+| 360d | 2025-10-12 | 10 | 54 | 4 | 23 | 1 | 62 |
+| last720d | 2024-10-17 | 20 | 90 | 5 | 67 | 2 | 109 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for BlackSheep lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:19:04Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:02:20Z._
