@@ -14,19 +14,19 @@ x install BlackSheep
 
 ## Code insight
 
-Total: **50,520** lines of code across **214** files in the top 5 languages.
+Total: **50,871** lines of code across **214** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 47,730 | 1,515 | 11,870 | 188 |
-| Cython | 2,327 | 120 | 624 | 16 |
+| Python | 48,042 | 1,516 | 11,935 | 188 |
+| Cython | 2,366 | 120 | 633 | 16 |
 | Html | 133 | 0 | 2 | 7 |
 | Css | 87 | 0 | 14 | 2 |
 | Makefile | 73 | 0 | 39 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4.8 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.6.4` (2026-10-11)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-12
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 246 · **Open PRs**: 4 · **Closed issues**: 305 · **Open issues**: 3 · **Commits**: 391
+- **Releases**: 81 · **Merged PRs**: 247 · **Open PRs**: 4 · **Closed issues**: 305 · **Open issues**: 3 · **Commits**: 392
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 6 | 1 | 0 | 0 | 11 |
-| last60d | 2026-08-13 | 1 | 6 | 1 | 0 | 1 | 11 |
-| 90d | 2026-07-14 | 1 | 10 | 1 | 0 | 1 | 11 |
-| last180d | 2026-04-15 | 2 | 17 | 1 | 2 | 1 | 17 |
-| 360d | 2025-10-17 | 11 | 57 | 3 | 22 | 1 | 62 |
-| last720d | 2024-10-22 | 21 | 93 | 4 | 66 | 2 | 112 |
+| 30d | 2026-09-13 | 1 | 7 | 1 | 0 | 0 | 12 |
+| last60d | 2026-08-14 | 1 | 7 | 1 | 0 | 1 | 12 |
+| 90d | 2026-07-15 | 1 | 11 | 1 | 0 | 1 | 12 |
+| last180d | 2026-04-16 | 2 | 18 | 1 | 2 | 1 | 18 |
+| 360d | 2025-10-18 | 11 | 57 | 3 | 21 | 1 | 63 |
+| last720d | 2024-10-23 | 21 | 94 | 4 | 66 | 2 | 113 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for BlackSheep lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:02:15Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:51:49Z._
