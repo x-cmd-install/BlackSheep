@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,359 · **Forks**: 100 · **Open issues**: 309 · **Contributors**: 33
+- **Stars**: 2,359 · **Forks**: 100 · **Open issues**: 310 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 247 · **Open PRs**: 6 · **Closed issues**: 305 · **Open issues**: 4 · **Commits**: 392
+- **Releases**: 81 · **Merged PRs**: 247 · **Open PRs**: 6 · **Closed issues**: 305 · **Open issues**: 5 · **Commits**: 392
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 3 | 2 | 0 | 1 | 4 |
-| last60d | 2026-09-08 | 1 | 7 | 3 | 0 | 2 | 12 |
-| 90d | 2026-08-09 | 1 | 7 | 3 | 0 | 2 | 12 |
-| last180d | 2026-05-11 | 2 | 16 | 3 | 1 | 2 | 17 |
-| 360d | 2025-11-12 | 10 | 45 | 5 | 12 | 2 | 50 |
-| last720d | 2024-11-17 | 21 | 94 | 6 | 66 | 3 | 113 |
+| 30d | 2026-10-09 | 1 | 3 | 2 | 0 | 2 | 0 |
+| last60d | 2026-09-09 | 1 | 7 | 3 | 0 | 3 | 12 |
+| 90d | 2026-08-10 | 1 | 7 | 3 | 0 | 3 | 12 |
+| last180d | 2026-05-12 | 2 | 14 | 3 | 1 | 3 | 15 |
+| 360d | 2025-11-13 | 10 | 45 | 5 | 12 | 3 | 47 |
+| last720d | 2024-11-18 | 21 | 94 | 6 | 66 | 4 | 113 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for BlackSheep lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:58:55Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:00:16Z._
