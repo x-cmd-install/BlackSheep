@@ -30,8 +30,8 @@ x install BlackSheep
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (2/10) — Found 7/26 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -57,12 +57,12 @@ x install BlackSheep
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-09-24 | 1 | 4 | 2 | 0 | 2 | 4 |
-| 90d | 2026-08-25 | 1 | 7 | 3 | 0 | 3 | 12 |
-| last180d | 2026-05-27 | 2 | 13 | 3 | 1 | 3 | 15 |
-| 360d | 2025-11-28 | 8 | 37 | 5 | 11 | 3 | 45 |
-| last720d | 2024-12-03 | 21 | 93 | 6 | 65 | 4 | 113 |
+| 30d | 2026-10-25 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-09-25 | 1 | 4 | 2 | 0 | 2 | 4 |
+| 90d | 2026-08-26 | 1 | 7 | 3 | 0 | 3 | 12 |
+| last180d | 2026-05-28 | 2 | 13 | 3 | 1 | 3 | 15 |
+| 360d | 2025-11-29 | 8 | 37 | 5 | 11 | 3 | 45 |
+| last720d | 2024-12-04 | 21 | 93 | 6 | 65 | 4 | 113 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ BlackSheep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T07:50:44Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:31:54Z._
